@@ -6,7 +6,6 @@
 ---
 
 ### 🧬 Current Experiments in Progress
-- **📡 WP1 MishMash:** Engineering AI as a responsive artistic partner for live performances.
 - **🎹 Project BrainJam:** Fusing EEG, fNIRS, and EMG into a multimodal co-performance engine.
 - **⚡ Digital Therapeutics (DTx):** Decoding brain-body data to optimize human well-being.
 - **📖 Learning:** Training my internal weights on **Oracle** databases.
